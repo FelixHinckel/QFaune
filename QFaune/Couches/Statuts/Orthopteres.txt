@@ -1,0 +1,4 @@
+"Nom"	"PHYLUM"	"CLASSE"	"ORDRE"	"FAMILLE"	"CD_REF"	"LB_NOM"	"NOM_VALIDE"	"NOM_VERN"	"LRN"	"LRN_det"	"LRR"	"LRR_det"	"DH"	"DH_det"	"PN"	"PN_det"	"PR"	"PR_det"	"PD"	"PD_det"	"ZNIEFF"
+"*  Magicienne dentelée  ( Saga pedo )"	"Arthropoda"	"Insecta"	"Orthoptera"	"Tettigoniidae"	65680	"Saga pedo"	"Saga pedo (Pallas, 1771)"	"Magicienne dentelée, Langouste de Provence, Saga aux longues pattes"					"CDH4"	""	"NI2"	""					
+"*  Criquet rhodanien  ( Prionotropis rhodanica )"	"Arthropoda"	"Insecta"	"Orthoptera"	"Pamphagidae"	66052	"Prionotropis rhodanica"	"Prionotropis rhodanica Uvarov, 1923"	"Criquet rhodanien, Miramelle des moraines, Criquet marcheur, Criquet pédestre"							"NI3"	""					
+"*  Criquet hérisson  ( Prionotropis azami )"	"Arthropoda"	"Insecta"	"Orthoptera"	"Pamphagidae"	814441	"Prionotropis azami"	"Prionotropis azami Uvarov, 1923"	"Criquet hérisson, Criquet des Grands-Plans"							"NI3"	""					
