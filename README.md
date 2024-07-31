@@ -7,7 +7,7 @@ Ce projet contient :
 - Trois couches Protocole (ponctuelles pour les protocoles Avifaune et Chiroptère, linéaire pour les protocoles Lépidoptère)
 
 
-Pour assister la saisie, chaque couche est liée avec une liste d'espèce nationale provenant de la LRN, des directives habitats/oiseaux, et des espèces protégées nationalement. Il est possible d'adapter cette liste selon la région d'étude, avec des données provenant aussi des LRN, des protections régionales, et des déterminances ZNIEFF. Les listes d'espèces et les différents statuts proviennent du TaxRef, et de la BDC de l'INPN.
+Pour assister la saisie, chaque couche est liée avec une liste d'espèce nationale provenant de la Liste Rouge Nationale, des directives habitats/oiseaux, et des espèces protégées nationalement. Il est possible d'adapter cette liste selon la région d'étude, avec des données provenant aussi des Listes Rouges Régionales, des protections régionales, et des déterminances ZNIEFF. Les listes d'espèces et les différents statuts proviennent du TaxRef et de la Base de Données Connaissance de l'INPN.
 
 En plus de ça, le projet comporte : 
 
