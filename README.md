@@ -1,7 +1,7 @@
 # 🦋 QFaune 1.2.3 _Aporia crataegi_
 QFaune est un projet Qgis autoportant, optimisé pour la prise de donnée terrain via l'application mobile QField 📱.
 
-📥 **Télécharger la dernière version stable :** [QFaune 1.2.3 _Aporia Crategi_](https://github.com/FelixHinckel/QFaune/archive/refs/tags/v1.2.3_Aporia_crataegi.zip)
+📥 **Télécharger la dernière version stable :** [QFaune 1.2.3 _Aporia crategi_](https://github.com/FelixHinckel/QFaune/archive/refs/tags/v1.2.3_Aporia_crataegi.zip)
 
 Ce projet contient :
 
